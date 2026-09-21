@@ -1,4 +1,4 @@
-# Project Charter — NURA
+# Project Charter - NURA
 
 > **Network & URL Abuse Reporting Application**
 
